@@ -51,25 +51,12 @@
       "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;917907914657;https://i.imgur.com/pbNNWfM.jpeg"
     },
     "STICKER_DATA": {
-      "description": "ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ",
+      "description": "луттппи",
       "required": true,
       "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ"
     },
     "AUDIO_DATA": {
-      "description": "audio package name",
+      "description": "ℓυттαρρι ѕєя",
       "required": true,
       "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;https://i.imgur.com/pbNNWfM.jpeg"
     },
@@ -81,7 +68,7 @@
     "AUTO_STATUS_VIEW": {
       "description": "automatic read status",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "REJECT_CALL": {
       "description": "automatic reject call",
